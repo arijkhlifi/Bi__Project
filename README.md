@@ -16,4 +16,6 @@ This project utilizes a MySQL database for efficient data storage. The database 
 After designing the star schema, SQL queries are crucial for maintaining data integrity and executing efficient transformations before analyzing the data in Power BI.
 # 4-Data Analysis
 Using Power BI, we uncover valuable insights enabling informed decision-making in the dynamic e-commerce landscape.
+# Project Presentation
+https://www.canva.com/design/DAGdPK7_ynM/SE5DLP4LGMZKXqS-92vMxg/edit?utm_content=DAGdPK7_ynM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
