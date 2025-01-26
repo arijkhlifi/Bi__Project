@@ -8,3 +8,5 @@ In this project, we developed a robust data pipeline for processing and analyzin
 3. **Data Visualization and Analysis:** Leveraging Power BI to create insightful data visualizations and conduct comprehensive analysis.
 
 This project showcases our ability to handle the entire data lifecycle, from data acquisition to meaningful insights.
+# 1- ETL
+This project utilizes ETL (Extract, Transform, Load) to process and prepare data for analysis. Python scripts, detailed in the accompanying PDF, were used to extract data from various sources, transform it into a consistent format, and load it into the designated data storage. This ETL process is fundamental for ensuring data quality and enabling accurate and insightful analysis.
