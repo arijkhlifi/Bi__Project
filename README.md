@@ -18,4 +18,6 @@ After designing the star schema, SQL queries are crucial for maintaining data in
 Using Power BI, we uncover valuable insights enabling informed decision-making in the dynamic e-commerce landscape.
 # Project Presentation
 https://www.canva.com/design/DAGdPK7_ynM/SE5DLP4LGMZKXqS-92vMxg/edit?utm_content=DAGdPK7_ynM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+# Conclusion
+This project demonstrates how we utilized Python for efficient ETL processes, MySQL for data storage and schema management, and Power BI for detailed analysis and visualization. From extracting data to transforming it with Python, and performing SQL queries for data management, I leveraged these tools to gain strategic insights into the dynamic E-Commerce industry.
 
